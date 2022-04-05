@@ -1,3 +1,3 @@
 # Simple-CRUD-CI3
-CRUD Sederhana menggunakan CodeIgniter 3 dan Bootstrap
+CRUD data mobil menggunakan CodeIgniter 3 dan Bootstrap
 
